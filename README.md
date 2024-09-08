@@ -14,5 +14,5 @@ El proyecto se ejecuta desde un archivo Jupyter Notebook (".ipynb"). Los usuario
 
 ## 👗 **Mantenimiento y Contribución**
 Este proyecto fue creado por Laura Valentina Rodriguez y Dafne Valeria Castellanos. Para consultas, puedes contactarme a:  
-- ** ll**
+- **lauravale.gonzalez@urosario.edu.co**
 - **dafne.castellanos@urosario.edu.co**
